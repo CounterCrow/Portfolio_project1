@@ -1,0 +1,22 @@
+@charset "UTF-8";
+* {margin: 0; padding: 0;border: 0;}
+
+.log_in {
+    font-size: 30px; box-sizing: border-box; margin-left: 15px;
+}
+section h2 {
+    margin-bottom: 2rem;
+}
+.iconBox {
+    text-align: right; font-size: 30px;
+}
+.iconBox i{
+    margin-left: 10px;
+}
+.footerBox
+{
+    display: flex;
+}
+.infoF {
+    margin-right: 10px;
+}
