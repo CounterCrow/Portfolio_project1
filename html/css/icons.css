@@ -13,6 +13,9 @@ section h2 {
 .iconBox i{
     margin-left: 10px;
 }
+.iconBox p a {
+	color:white;
+}
 .footerBox
 {
     display: flex;
